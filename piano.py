@@ -3,6 +3,7 @@ import pygame
 from pygame.locals import * #está importando coisas necessárias para lidar com gráficos
 
 # Inicialização do Pygame
+#foi
 pygame.init()#inicializa o programa no pygame
 
 # Definindo as dimensões da janela
